@@ -37,7 +37,7 @@ All examples are built around a **streaming-platform project** (`Content`, `Movi
 
 | # | Folder | Video topic | What you'll learn | Status |
 |:-:|---|---|---|:-:|
-| 1 | [`Part_6_1_Object_Oriented_Basics`](./Part_6_1_Object_Oriented_Basics) | **Building Class Families with Inheritance** | Parent and child classes, `extends`, single inheritance, `java.lang.Object` at the top of every hierarchy | 🔜 |
+| 1 | [`Part_6_1_Object_Oriented_Basics`](./Part_6_1_Object_Oriented_Basics) | **Building Class Families with Inheritance** | Parent and child classes, `extends`, single inheritance, `java.lang.Object` at the top of every hierarchy | ✅ |
 | 2 | [`Part_6_2_Object_Oriented_Basics`](./Part_6_2_Object_Oriented_Basics) | **Writing Your Own Subclasses** | Class modifiers (`final`, `abstract`, `sealed`…), access to inherited members, the `this` and `super` references | 🔜 |
 | 3 | [`Part_6_3_Object_Oriented_Basics`](./Part_6_3_Object_Oriented_Basics) | **Bringing Objects to Life with Constructors** | The default constructor, overloading constructors, chaining with `this()` and `super()`, the compiler's hidden `super()` | 🔜 |
 | 4 | [`Part_6_4_Object_Oriented_Basics`](./Part_6_4_Object_Oriented_Basics) | **The Order Java Builds Your Objects In** | Static and instance initializers, class vs. instance initialization order, initializing `final` fields | 🔜 |
@@ -151,7 +151,7 @@ This repository is **Part 6** of a complete Java SE 17 course. Each part has its
 | 3 | Control Flow & Conditionals | 🔜 |
 | 4 | Essential Java Libraries | 🔜 |
 | 5 | Functions & Parameters | 🔜 |
-| 6 | [Object-Oriented Basics](https://github.com/adcwithmounir/Java17_Part_6_Object_Oriented_Basics) | ✅ |
+| 6 | [**Object-Oriented Basics**](https://github.com/adcwithmounir/Java17_Part_6_Object_Oriented_Basics) | 🟢 |
 | 7 | Interfaces & Abstract Types | 🔜 |
 | 8 | [Functional Programming](https://github.com/adcwithmounir/Java17_Part_8_Functional_Programming) | ✅ |
 | 9 | Data Structures & Type Safety | 🔜 |
