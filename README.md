@@ -43,7 +43,7 @@ All examples are built around a **streaming-platform project** (`Content`, `Movi
 | 4 | [`Part_6_4_Object_Oriented_Basics`](./Part_6_4_Object_Oriented_Basics) | **The Order Java Builds Your Objects In** | Static and instance initializers, class vs. instance initialization order, initializing `final` fields | ✅ |
 | 5 | [`Part_6_5_Object_Oriented_Basics`](./Part_6_5_Object_Oriented_Basics) | **Replacing Parent Behavior: Overriding & Hiding** | The overriding rules, covariant return types, hiding `static` methods and fields, `final` methods | ✅ |
 | 6 | [`Part_6_6_Object_Oriented_Basics`](./Part_6_6_Object_Oriented_Basics) | **Blueprints with Abstract Classes** | `abstract` classes and methods, the first concrete subclass, legal and illegal modifier combinations | ✅ |
-| 7 | [`Part_6_7_Object_Oriented_Basics`](./Part_6_7_Object_Oriented_Basics) | **Locking Down Objects with Immutability** | Building objects that never change: `private final` fields, no setters, defensive copies | 🔜 |
+| 7 | [`Part_6_7_Object_Oriented_Basics`](./Part_6_7_Object_Oriented_Basics) | **Locking Down Objects with Immutability** | Building objects that never change: `private final` fields, no setters, defensive copies | ✅ |
 | 8 | NO LABS (see the video) | **Chapter Review & Practice Questions** | Summary, exam essentials and OCP-style practice questions | 🔜 |
 
 > ✅ Available · 🔜 Coming soon — the repo is updated as new videos are released.
